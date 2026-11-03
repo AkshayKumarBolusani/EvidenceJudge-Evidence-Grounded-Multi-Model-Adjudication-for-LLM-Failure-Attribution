@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research, cite the manuscript by its title and author. Add a DOI only after one has been formally assigned."
+title: "EvidenceJudge: Evidence-Grounded Multi-Model Adjudication for LLM Failure Attribution"
+authors:
+  - family-names: Bolusani
+    given-names: "Akshay Kumar"
+    affiliation: "Independent Researcher"
+type: software
